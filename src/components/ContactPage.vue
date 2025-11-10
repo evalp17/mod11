@@ -1,7 +1,9 @@
+<!-- eslint-disable vue/multi-word-component-names -->
 <template>
   <section>
-    <h1>About</h1>
-    <p>This is the Module 11 app with Vue Router.</p>
+    <h1>Contact</h1>
+    <p>Name: Eva Alperovich</p>
+    <p>Email: ealperovich@my.waketech.edu</p>
     <GoBackButton />
   </section>
 </template>

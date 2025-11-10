@@ -1,2 +1,3 @@
-module.exports = { publicPath: '/mod11/' }
-
+module.exports = {
+  publicPath: '/mod11/'
+}
